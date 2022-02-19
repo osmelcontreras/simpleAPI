@@ -7,7 +7,7 @@ Tools Used:
 1. Eclipse IDE
 2. Springboot Framework
 3. Postman for REST API client
-4. PostgresSQL Database
+4. PostgreSQL Database
 
 Writen in Java
 
